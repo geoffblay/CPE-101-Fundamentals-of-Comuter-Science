@@ -1,0 +1,21 @@
+Welcome aboard the Lunar Module Flight Simulator
+
+   To begin you must specify the LM's initial altitude
+   and fuel level.  To simulate the actual LM use
+   values of 1300 meters and 500 liters, respectively.
+
+   Good luck and may the force be with you!
+
+Enter the initial altitude of the LM (in meters): -100
+ERROR: Altitude must be between 1 and 9999, inclusive, please try again
+Enter the initial altitude of the LM (in meters): 1300
+Enter the initial amount of fuel on board the LM (in liters): 0
+ERROR: Amount of fuel must be positive, please try again
+Enter the initial amount of fuel on board the LM (in liters): 50000
+
+LM state at retrorocket cutoff
+Elapsed Time:    0 s
+        Fuel: 50000 l
+        Rate:    0 l/s
+    Altitude: 1300.00 m
+    Velocity:    0.00 m/s
