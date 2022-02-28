@@ -45,7 +45,7 @@ input.
 Puzzle - Your program should read in a 100 character long string from user via standard 
 keyboard input.
 
-## Project 5: 
+## Project 5: File Matching/Processing Program
 
 - practice on a 2D python list
 - practice sorting algorithms
